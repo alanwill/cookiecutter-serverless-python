@@ -2360,7 +2360,7 @@ cryptography = ">=2.0"
 jeepney = ">=0.6"
 
 [[package]]
-name = "{{cookiecutter.service_name}}-cdk"
+name = "service-cdk"
 version = "3.1"
 description = "CDK code for deploying an AWS Lambda handler that implements the best practices described at https://www.ranthebuilder.cloud"
 optional = false
